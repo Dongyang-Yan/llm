@@ -1,5 +1,4 @@
 import os
-from sympy.physics.units import temperature
 from chatbotapp.search import TellGPT, llm, config, conversation_stages
 import json
 import sys
