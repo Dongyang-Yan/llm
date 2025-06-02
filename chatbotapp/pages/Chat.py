@@ -1,5 +1,5 @@
 import os
-from chatbotapp.search import TellGPT, llm, config, conversation_stages
+from ..search import TellGPT, llm, config, conversation_stages
 import json
 import sys
 import time
